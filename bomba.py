@@ -1,7 +1,7 @@
 import requests, random, datetime, sys, time, os
 
-from colorama import Fore, Back, Style
-from termcolor import colored
+    from colorama import Fore, Back, Style
+    from termcolor import colored
 
 c = 'clear'
 os.system(c)
